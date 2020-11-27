@@ -11,7 +11,8 @@ $ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ##### 1.2. Install google chrome
 
 ```
-$ sudo apt install ./google-chrome-stable_current_amd64.deb
+# bash
+sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 
 ### 2. Update 

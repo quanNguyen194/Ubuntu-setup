@@ -15,10 +15,20 @@ git commit -m "Initialize repository"
 ```
 
 ```
-git add remote origin <*URL-to-repo*>
+git remote add origin <*URL-to-repo*>
 ```
 
 ```
 git push -u origin master
+```
+
+## Config git
+
+```
+git config --global user.email '<your_email>'
+```
+
+```
+git config --global user.name '<your_username>'
 ```
 
